@@ -1,0 +1,49 @@
+{
+  "pageTitle": "My GitHub Powered Dashboard",
+  "hero": {
+    "title": "Welcome to My Local + GitHub Site",
+    "subtitle": "All the content and styling here comes from files hosted on GitHub.",
+    "ctaText": "Learn More"
+  },
+  "sections": [
+    {
+      "title": "Quick Links",
+      "items": [
+        {
+          "title": "Documentation",
+          "text": "Read the docs and learn how this site pulls its content from a simple JSON file.",
+          "badge": "New"
+        },
+        {
+          "title": "GitHub Repo",
+          "text": "View the code and data powering this page directly on GitHub.",
+          "badge": "Code"
+        },
+        {
+          "title": "Local Setup",
+          "text": "Run a tiny local server and let your browser fetch JSON + CSS from GitHub.",
+          "badge": "Guide"
+        }
+      ]
+    },
+    {
+      "title": "Features",
+      "items": [
+        {
+          "title": "Remote Data",
+          "text": "Update text in one JSON file and the page changes without touching HTML."
+        },
+        {
+          "title": "Remote Styles",
+          "text": "Change the look & feel by editing a single CSS file hosted on GitHub."
+        },
+        {
+          "title": "Simple Tech",
+          "text": "No frameworks. Just plain HTML, CSS, and JavaScript with fetch()."
+        }
+      ]
+    }
+  ],
+  "footer": "Made with ♥ using a local index.html and GitHub as a tiny API."
+}
+  
