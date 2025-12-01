@@ -1,0 +1,10 @@
+{
+  "title": "My GitHub Powered Page",
+  "subtitle": "Content & styles coming from GitHub 🎉",
+  "paragraphs": [
+    "This is the first paragraph loaded from a JSON file hosted on GitHub.",
+    "Here is another paragraph, also coming from the same JSON file.",
+    "You can add as many as you like, and the page will render them dynamically."
+  ],
+  "footer": "Made with ♥ using GitHub as a tiny content API."
+}
